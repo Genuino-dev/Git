@@ -1,1 +1,2 @@
 Olá, nova linha 
+Estou adicionando uma nova funcionalidade.
